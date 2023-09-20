@@ -1,0 +1,5 @@
+# th란 무엇인가?
+
+<strong th:text="&{id}">james</strong>님, 반갑습니다!! 
+에서 쓰이는 th은 Thymeleaf의 속성 중 하나로, 이를 사용하여 HTML 요소의 텍스트 내용을 동적으로 설정할 수 있다.
+  
