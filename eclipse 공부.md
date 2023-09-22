@@ -10,4 +10,5 @@ spring에서 제공하는 기능으로 이해하면 편하다. 예를 들어서 
 
 <form method="post" action="/ex02/answer">
 
-
+# answer 파일에서 계산이 필요할 경우?
+Controller에 파일을 계산한 후 answer에 보내준다. 
