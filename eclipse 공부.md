@@ -12,3 +12,6 @@ spring에서 제공하는 기능으로 이해하면 편하다. 예를 들어서 
 
 # answer 파일에서 계산이 필요할 경우?
 Controller에 파일을 계산한 후 answer에 보내준다. 
+
+# break와 continue 차이
+break는 반복문을 바로 탈출하지만, continue는 반복문에서 그 부분만 반복하지 않고 다시 반복문으로 돌아가 반복한다.
